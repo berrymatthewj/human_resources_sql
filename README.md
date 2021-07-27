@@ -1,4 +1,4 @@
-# sql-challenge
+# human_resources_sql
 
 1. The EmployeeSQL folder contains all of the requested files.
 2. To create the requested tables follow the instructions and use the code in the "tableCreate.sql" file.
